@@ -1,0 +1,24 @@
+{
+  "name": "todomvc-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsalaninam/IntroductionToCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsalaninam/IntroductionToCypress/issues"
+  },
+  "homepage": "https://github.com/arsalaninam/IntroductionToCypress#readme",
+  "dependencies": {
+    "cypress": "^3.8.3"
+  }
+}
